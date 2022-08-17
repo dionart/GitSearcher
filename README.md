@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# GitSearcher
+
+A simple web app made to study the use of apollo client to consume github's graphql api. The folder structure is pretty simple, just enough to show the main screen and its functionalities since this is only a study project
+
+# Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
